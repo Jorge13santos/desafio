@@ -5,7 +5,7 @@
          # curl -fsSL https://get.docker.com | bash
          
      2 - Download da image nginx-alpine / conectar no container
-         # docker container run -it p 5500:5000 alpine
+         # docker container run -it -p 5500:5000 alpine
          
          3 - Preparando o container
            # apk add python3 py-virtualenv
