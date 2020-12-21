@@ -20,7 +20,7 @@
            # ls (visualizar os arquivos criados)
            # python app.py ( comando para executar aplicação)
    
-      4 - ACESSO A PLICAÇÃO
+      4 - ACESSO APLICAÇÃO
    
        # LOCALHOST OU IP:5500
        
