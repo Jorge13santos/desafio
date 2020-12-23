@@ -1,4 +1,4 @@
-       ### DESAFIO
+       ### DESAFIO CRIANDO UM APP EM PYTHON E PUBLICAR 
 
      1 - Download do Docker
          # apt-get ou yum install curl wget git -y
